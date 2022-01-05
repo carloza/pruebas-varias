@@ -4,4 +4,4 @@ linea en commit cero (C0)
 
 linea en commit uno (C1)
 
-linea en commit dos prima main (C2')
+linea en commit dos (C2)

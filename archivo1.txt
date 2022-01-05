@@ -1,0 +1,3 @@
+este archivo es el inicial
+
+linea en commit cero (C0)

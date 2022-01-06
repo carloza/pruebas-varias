@@ -6,4 +6,6 @@ linea en commit uno (C1)
 
 linea en commit dos (C2)
 
+hay que borrar esta linea
 
+y agregar esta otra
